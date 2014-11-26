@@ -35,6 +35,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Emily Leung CIS440 10:30am: https://github.com/ecleung/Emily-Leung-Personal-Project
             - Jason Weeks CIS440 10:30am: https://github.com/JWeeksASU/WEATHER_band
             - Michael Vaughn CIS440 1030am: https://github.com/mjvaugh2/password-security
+            - Blanca Llanez CIS440 1030am: https://github.com/bllanez/Blanca-sPersonalProject
             - Greg Higgins CIS440 10:30am: https://github.com/gjhiggin/Personal-Project
             - Jeff Maslowski CIS440 1:30pm: https://github.com/jmaslows/personalproject
             - Ching Ya Huang CIS440 10:30am: https://github.com/abbyhg/personalProject
